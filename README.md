@@ -51,7 +51,7 @@ The ✨latest papers will be updated for sure **after being done with the "Botto
 **The Categories 'Review & Code'** stand for a link to what I write down after reading and studying the paper.
 
 
-|   Detector   | Status  |        Keyword      | Published In |           My Review      |   Code Studied  |   Official Code  | Pdf  | 
+|   Detector   | Status  |        Keyword      | Published In |           My Review      |   Code Studied  |   Framework      | Pdf  | 
 |:------------:|:-------:|:-------------------:|:------------:|:------------------------:|:---------------:|:----------------:|:----:| 
 |     R-CNN    |   ✏️   |          -          |    CVPR'14   |              -           |         -        |          -      |  -    |   
 |    SPP-Net   |    -    |          -          |    ECCV'14   |              -           |     -            |         -       |   -   |     
