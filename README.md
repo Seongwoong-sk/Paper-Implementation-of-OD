@@ -48,8 +48,11 @@ The ✨latest papers will be updated for sure **after being done with the "Botto
 
 ## Paper List for My Study 
 
-**The Categories 'Review & Code'** stand for a link to what I write down after reading and studying the paper.
+**The Categories 'My Review & Code'** stand for a link to what I write down after reading and studying the paper.
 
+Furthermore, 'My Review' refers to **Notion** where I write down what I figure out after reading.
+
+</br>
 
 |   Detector   | Status  |        Keyword      | Published In |           My Review      |   Code Studied  |   Framework      | Pdf  | 
 |:------------:|:-------:|:-------------------:|:------------:|:------------------------:|:---------------:|:----------------:|:----:| 
